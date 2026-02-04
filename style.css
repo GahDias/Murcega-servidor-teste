@@ -35,7 +35,7 @@
 
 body {
   font-family: "Playfair Display";
-  background-image: url(/bg-full.jpg);
+  background-image: url(bg-full.jpg);
   background-size: cover;
   min-height: 100vh;
   padding: 0px 20px 0px 20px;
@@ -362,6 +362,7 @@ body {
     background-position: 0% 50%;
   }
 }
+
 
 
 
